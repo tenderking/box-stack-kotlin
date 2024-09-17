@@ -1,0 +1,34 @@
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.hprof
+
+# Gradle
+.gradle/
+build/
+!**/src/**/build/
+!**/test/**/build/
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
